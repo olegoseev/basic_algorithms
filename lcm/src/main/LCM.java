@@ -1,7 +1,7 @@
 package main;
 
 // Least Common Multiple -LCM
-public class App {
+public class LCM {
 
 	public static void main(String[] args) {
 		

@@ -1,6 +1,6 @@
 package main;
 
-public class App {
+public class GCD {
 
 	public static void main(String[] args) {
 		int r = euclid_gcd(78, 66);
